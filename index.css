@@ -1,0 +1,148 @@
+body
+{
+   background-size:cover;
+  background-repeat:no-repeat;
+  background-color:#171717;
+}
+
+
+h1
+{
+    font-size: 10vw;
+    color: yellow;
+    margin: auto;
+    text-align: center;
+    
+}
+
+
+.hy
+{
+    background-color:#282C35; 
+    border-radius:5vw;
+    color:white;
+    min-height:20vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:10vw;
+    margin-left:5px;
+    border:1vw solid #FFFF00;
+    
+    
+}
+
+.gen
+{
+    font-size: 6vw;
+    color: white;
+    
+}
+
+a
+{
+    text-decoration: none;
+}
+
+html
+{
+    justify-content: center;
+    scroll-behavior: smooth;
+}
+
+
+.he
+{
+    background-color:#282C35; 
+    border-radius:5vw;
+    color:white;
+    min-height:20vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:2vw;
+    margin-left:5px;
+    border:1vw solid #FFFF00;
+    
+    
+}
+
+.li
+{
+    background-color:#282C35; 
+    border-radius:5vw;
+    color:white;
+    min-height:20vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:2vw;
+    margin-left:5px;
+    border:1vw solid #FFFF00;
+}
+
+.bery
+{
+    background-color:#282C35; 
+    border-radius:5vw;
+    color:white;
+    min-height:20vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:2vw;
+    margin-left:5px;
+    border:1vw solid #FFFF00;
+}
+
+.bo
+{
+    background-color:#282C35; 
+    border-radius:5vw;
+    color:white;
+    min-height:20vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:2vw;
+    margin-left:5px;
+    border:1vw solid #FFFF00;
+}
+
+
+.c
+{
+    background-color:#282C35; 
+    border-radius:5vw;
+    color:white;
+    min-height:20vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:2vw;
+    margin-left:5px;
+    border:1vw solid #FFFF00;
+}
+
+
+.n
+{
+    background-color:#282C35; 
+    border-radius:5vw;
+    color:white;
+    min-height:20vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:2vw;
+    margin-left:5px;
+    border:1vw solid #FFFF00;
+}
+
+
+.o
+{
+    background-color:#282C35; 
+    border-radius:5vw;
+    color:white;
+    min-height:20vw;
+    min-width:89vw;
+    text-indent:middle ;
+    margin-top:2vw;
+    margin-left:5px;
+    border:1vw solid #FFFF00;
+}
+
